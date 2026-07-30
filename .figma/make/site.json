@@ -1,0 +1,10 @@
+{
+  "description": "Create engaging health-focused video reels with an AI-powered tool that simplifies planning, rendering, reviewing, and publishing shorts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
